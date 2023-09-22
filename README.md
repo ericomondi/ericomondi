@@ -5,7 +5,7 @@ I'm passionate about coding and enjoy collaborating on exciting projects.
 
 ## About Me
 
-- 🌐 I'm perfecting my skills in HTML, CSS, JavaScript, and Python.
+- 🌐 I'm perfecting my skills in HTML, CSS, JavaScript, SQL and Python.
 - 💼 Currently working on a sales system project at TechCamp.
 - 📧 You can reach me at [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com).
 
