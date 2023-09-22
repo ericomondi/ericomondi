@@ -32,7 +32,7 @@ A web application for grading students based on their exam scores.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/students-grading-app)
 
-![Project Screenshot](project-screenshot.png)
+
 
 ## Collaboration
 
@@ -41,8 +41,8 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 ## Get in Touch
 
 - Email: [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- 🌐 LinkedIn: 
+- 🐦 Twitter: 
 
 
 ## Stats
