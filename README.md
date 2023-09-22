@@ -14,6 +14,7 @@ I'm passionate about coding and enjoy collaborating on exciting projects.
 - HTML
 - CSS
 - JavaScript
+- SQL
 - Python
 
 ## Projects
