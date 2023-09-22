@@ -13,7 +13,7 @@ I'm passionate about coding and enjoy collaborating on exciting projects.
 
 Here are some of my featured projects:
 
-1. [Basic_Login_Page](https://github.com/ericomondi/basic-login-page): A project I'm currently working on to streamline sales processes at TechCamp.
+1. [Basic_Login_Page](https://github.com/ericomondi/basic-login-page): A project I'm currently working on to streamline sales system project at TechCamp.
 
 2. [Student Grading App]([link-to-your-grading-app-repo](https://github.com/ericomondi/students-grading-app)): A web application for grading students based on their exam scores.
    - [Live Demo](link-to-live-demo-if-available)
@@ -29,7 +29,7 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericomondi&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eric-omondi&show_icons=true&theme=dark)
 
 ## Thanks for Visiting
 
