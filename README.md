@@ -6,17 +6,33 @@ I'm passionate about coding and enjoy collaborating on exciting projects.
 ## About Me
 
 - 🌐 I'm perfecting my skills in HTML, CSS, JavaScript, and Python.
+- 💼 Currently working on a sales system project at TechCamp.
 - 📧 You can reach me at [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com).
 
+ ## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
 
 ## Projects
 
 Here are some of my featured projects:
 
-1. [Basic_Login_Page](https://github.com/ericomondi/basic-login-page): A project I'm currently working on to streamline my sales system project at TechCamp.
+### Basic Login Page
 
-2. [Student Grading App]([link-to-your-grading-app-repo](https://github.com/ericomondi/students-grading-app)): A web application for grading students based on their exam scores.
-   - [Live Demo](link-to-live-demo-if-available)
+A project I'm currently working on to streamline my sales system project at TechCamp.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/basic-login-page)
+
+### Student Grading App
+
+A web application for grading students based on their exam scores.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/students-grading-app)
+
+![Project Screenshot](project-screenshot.png)
 
 ## Collaboration
 
@@ -25,6 +41,8 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 ## Get in Touch
 
 - Email: [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com)
+- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
 
 
 ## Stats
@@ -34,4 +52,14 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 ## Thanks for Visiting
 
 Thanks for checking out my GitHub profile! If you have any questions or would like to collaborate, please feel free to reach out.
+
+
+
+
+
+
+
+
+
+
 
