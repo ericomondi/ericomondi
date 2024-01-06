@@ -1,39 +1,46 @@
-# Hi, I'm Eric Omondi 👋
+# Heloo world, I'm Eric Omondi 👋
 
-I'm a software developer currently working on a project to build a sales system at TechCamp.
-I'm passionate about coding and enjoy collaborating on exciting projects.
+Passionate software developer with expertise in HTML, CSS, JavaScript, SQL, and Python. Successfully completed projects include a streamlined sales system at TechCamp, a student grading app, payroll calculator, and QR code generator. Committed to innovation, collaboration, and continuous learning in the dynamic field of software development.
 
 ## About Me
 
-- 🌐 I'm perfecting my skills in HTML, CSS, JavaScript, SQL and Python.
-- 💼 Currently working on a sales system project at TechCamp.
+- 🌐 I'm proficient in HTML, CSS, JavaScript, SQL, and Python.
+- 💼 Recently completed a sales system project at TechCamp.
 - 📧 You can reach me at [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com).
 
- ## Skills
+## Skills
 
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Python
+- HTML ⚡
+- CSS 🎨
+- JavaScript 💻
+- SQL 📊
+- Python 🐍
 
 ## Projects
 
-Here are some of my featured projects:
+### Sales System
 
-### Basic Login Page
+Successfully developed and implemented a comprehensive sales system at TechCamp, streamlining the sales process and enhancing efficiency.
 
-A project I'm currently working on to streamline my sales system project at TechCamp.
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/basic-login-page)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/sales-system)
 
 ### Student Grading App
 
-A web application for grading students based on their exam scores.
+A web application for grading students based on their exam scores. Features interactive charts and a user-friendly interface.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/students-grading-app)
 
+### Payroll Calculator
 
+Developed a payroll calculator application to automate payroll calculations, making the process faster and more accurate.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/payroll-calculator)
+
+### QR Code Generator
+
+Implemented a QR Code generator tool for creating QR codes quickly and easily.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/qrcode-generator)
 
 ## Collaboration
 
@@ -42,9 +49,9 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 ## Get in Touch
 
 - Email: [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com)
-- 🌐 LinkedIn: 
-- 🐦 Twitter: 
-
+- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/young-tech-81b99622b/)
+- 🐦 Twitter: [Twitter Profile](https://twitter.com/its_young_t_)
+- 📷 Instagram: [Instagram Profile](https://www.instagram.com/_y.o.u.n.g_t_/)
 
 ## Stats
 
@@ -53,14 +60,3 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 ## Thanks for Visiting
 
 Thanks for checking out my GitHub profile! If you have any questions or would like to collaborate, please feel free to reach out.
-
-
-
-
-
-
-
-
-
-
-
