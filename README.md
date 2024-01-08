@@ -49,10 +49,6 @@ I'm open to collaborating on interesting and lucrative projects. If you have a p
 ## Get in Touch
 
 - Email: [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com)
-- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/young-tech-81b99622b/)
-- 🐦 Twitter: [Twitter Profile](https://twitter.com/its_young_t_)
-- 📷 Instagram: [Instagram Profile](https://www.instagram.com/_y.o.u.n.g_t_/)
-
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericomondi&show_icons=true&theme=dark)
