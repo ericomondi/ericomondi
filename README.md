@@ -1,4 +1,4 @@
-# Heloo world, I'm Eric Omondi 👋
+# Hello world, I'm Eric Omondi 👋
 
 Passionate software developer with expertise in HTML, CSS, JavaScript, SQL, and Python. Successfully completed projects include a streamlined sales system at TechCamp, a student grading app, payroll calculator, and QR code generator. Committed to innovation, collaboration, and continuous learning in the dynamic field of software development.
 
