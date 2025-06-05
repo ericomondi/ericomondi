@@ -25,11 +25,6 @@ I am a passionate software developer with expertise in HTML, CSS, JavaScript, SQ
 
 A modern, secure, and scalable backend built with FastAPI, providing product management, user authentication, order processing, and MPESA payment integration.
 
-- **Features**:
-  - User registration and authentication
-  - Product catalog with filtering and pagination
-  - Order processing and payment integration
-  - Search functionality
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ericomondi/OnlineShopping)
 
