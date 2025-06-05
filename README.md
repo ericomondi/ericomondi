@@ -7,7 +7,7 @@ I am a passionate software developer with expertise in HTML, CSS, JavaScript, SQ
 ## About Me
 
 - 🌐 Proficient in HTML, CSS, JavaScript, SQL, Python, and React.
-- 💼 Recently developed an E-Commerce API, providing a robust backend for managing products, user authentication, and order processing.
+- 💼 Recently developed an E-Commerce APP, providing a robust application for managing products, user authentication, and order processing.
 - 📧 Reach me at [ericoochieng456@gmail.com](mailto:ericoochieng456@gmail.com).
 
 ## Skills
